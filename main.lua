@@ -1,6 +1,6 @@
 --[[
     GD50 2018
-    Flappy Bird Remake
+    Flappy Bird Remake Assignment Branch
 
     Author: Colton Ogden
     cogden@cs50.harvard.edu
